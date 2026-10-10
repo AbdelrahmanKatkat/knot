@@ -1,0 +1,13 @@
+.env
+*.sqlite3
+*.db
+data/
+models/
+__pycache__/
+.venv/
+node_modules/
+dist/
+build/
+target/
+*.spec
+.DS_Store
